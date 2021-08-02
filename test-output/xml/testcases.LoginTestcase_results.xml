@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Zoho Login Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.557">
+  <properties />
+  
+  
+            <testcase name="doLoginTest" time="5.557" classname="testcases.LoginTestcase" />
+      
+</testsuite>
